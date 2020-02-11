@@ -1,5 +1,5 @@
-# Sistemas-Distribuidos-1
-Socket C#, conexão entre uma aplicação cliente e uma servidora.
+# Sistemas Distribuidos
+Socket em C#, conexão entre uma aplicação cliente e uma servidora.
 
 Sockets são explicitamente criados, usados e liberados pelas aplicações
 São controlados como recursos pelo sistema operacional
